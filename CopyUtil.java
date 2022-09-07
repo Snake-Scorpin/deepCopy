@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * 利用反射实现的深拷贝框架，所有自定义类型的属性均会自动拷贝 
+ * 利用反射实现的深拷贝工具，所有自定义类型的属性均会自动拷贝 
  * 数组、集合类型暂未考虑
  * 
  * @author Snake_Scorpion
